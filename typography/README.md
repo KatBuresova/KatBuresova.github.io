@@ -1,5 +1,5 @@
 # Typography CSS library
-**Author:** *First Lastname*
+**Author:** *Katerina Buresova*
 ## Demo site
 Link to **[demo](http://www.github.io)** site for preview.
 ## Dependecies
