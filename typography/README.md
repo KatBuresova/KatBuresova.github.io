@@ -15,14 +15,14 @@ Link to **[demo](http://www.github.io)** site for preview.
 ```
 ## Usage
 CSS typography stylesheet
-*ul/ol
-*nav
-*a
-*p
-*section
-*i
-*abbr
-*h1,h2,h3,h4
+* ul/ol
+* nav
+* a
+* p
+* section
+* i
+* abbr
+* h1,h2,h3,h4
 ## Components
 ### Body
 ```html
