@@ -67,7 +67,7 @@ CSS typography stylesheet
         </div>
 </section>
 ```
-### Colums
+### Columns
 ```html
 <div class="row">
     <div id="first">
