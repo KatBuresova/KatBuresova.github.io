@@ -1,7 +1,7 @@
 # Typography CSS library
 **Author:** *Katerina Buresova*
 ## Demo site
-Link to **[demo](http://www.github.io)** site for preview.
+Link to **[demo](http://www.KatBuresova.github.io/typography)** site for preview.
 ## Dependecies
 
 ## Implementation
